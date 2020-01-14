@@ -1,0 +1,19 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Meichen Zhou",
+  "license": "MIT",
+  "dependencies": {
+    "@types/fast-levenshtein": "^0.0.1",
+    "@types/lodash": "^4.14.149",
+    "@types/node": "^13.1.2",
+    "fast-levenshtein": "^2.0.6",
+    "lodash": "^4.17.15",
+    "ts-node": "^8.5.4",
+    "typescript": "^3.7.4"
+  },
+  "scripts": {
+    "typecheck": "yarn tsc"
+  }
+}

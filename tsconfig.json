@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "esModuleInterop": true,
+    "target": "ES2017",
+    "noEmit": true,
+    "outDir": "out",
+    "sourceMap": true
+  }
+}
